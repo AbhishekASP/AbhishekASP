@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Abhishek S Pillai
-- 👀 I’m interested in Computer Science- Data Science, Machine Learning and IT Security
-- 🌱 I’m currently doing Masters in Computer Science Uiversity of Bonn
-- 💞️ I’m looking forward to work as Student Assistant in Computer Science fields
-- 📫 I can be reached at abhishek00110@gmail.com || +491744363347
+👀 I’m interested in Computer Science, Data Science, Machine Learning and IT Security
+🌱 I’m currently completing a Masters in Computer Science at the University of Bonn
+💞️ I’m looking forward to utilising my CompSci & Data Analytical skills with a reputable company
